@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SFileManager</string>
+
+    <string name="permissions">The application requires permission to access files</string>
+    <string name="ok">OK</string>
+
+</resources>
